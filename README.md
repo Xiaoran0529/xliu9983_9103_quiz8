@@ -12,4 +12,5 @@ I am planning to use this technique in my group project since I believe this tec
 In order to make to project in practice, I think a combination technique of for loop and array would be helpful to create the art. We first create an array to set up the location of the color, the building, the sea , and the sky, then we implement the for loop technique, we can create multiple functions for the location of color and scene control and then in each part of the location function, we can use the for loop to create the oil painting style animation.
 
 [Happycoding,randomwalker](https://youtu.be/m2lT4QojnGg)
-![randomwalker](E:\xliu9983_9103_quiz8\image\屏幕截图 2023-09-29 150240.png)
+
+![randomwalker](\image\屏幕截图 2023-09-29 150240.png)
