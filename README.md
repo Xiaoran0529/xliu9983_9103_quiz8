@@ -13,4 +13,4 @@ In order to make to project in practice, I think a combination technique of for 
 
 [Happycoding,randomwalker](https://youtu.be/m2lT4QojnGg)
 
-![randomwalker](image\屏幕截图 2023-09-29 150240.png)
+![randomwalker](https://drive.google.com/file/d/1ig4ZLbhLAgsZ9i4uAYXbixn1rQMLulnX/view)
