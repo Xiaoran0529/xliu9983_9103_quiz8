@@ -8,6 +8,9 @@ I am planning to use this technique in my group project since I believe this tec
 
 ![Claude Monet'Saint Georges majeur au crépuscule'](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Claude_Monet%2C_Saint-Georges_majeur_au_cr%C3%A9puscule.jpg/1200px-Claude_Monet%2C_Saint-Georges_majeur_au_cr%C3%A9puscule.jpg)
 
+## **Part 2:**
+
+
 
 
 
