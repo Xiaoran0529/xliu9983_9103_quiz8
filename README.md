@@ -3,6 +3,7 @@
 For inspiration, I found an interesting example on [Happycoding,randomwalker](https://happycoding.io/tutorials/p5js/animation/random-walker), which is used for loop to create a random oil painting style animation.
 
 ![The inspiration project](https://happycoding.io/tutorials/p5js/animation/images/random-walker-1.png)
+![The inspiration project](https://happycoding.io/tutorials/p5js/animation/images/random-walker-5.png)
 
 I am planning to use this technique in my group project since I believe this technique would be beneficial because it has a geometric pattern which may represent the theme of the artwork we will pick for the group work, for instance,Claude Monet'Saint Georges majeur au crépuscule'.
 
