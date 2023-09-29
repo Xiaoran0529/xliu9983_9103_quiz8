@@ -1,5 +1,5 @@
 # xliu9983_9103_quiz8
-**Part 1:**
+## **Part 1:**
 For inspiration, I found an interesting example on [Happycoding,randomwalker](https://happycoding.io/tutorials/p5js/animation/random-walker), which is used for loop to create a random oil painting style animation.
 
 ![The inspiration project](https://happycoding.io/tutorials/p5js/animation/images/random-walker-1.png)
